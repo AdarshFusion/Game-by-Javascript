@@ -1,18 +1,22 @@
-# JavaScript Game 🎮
+# Rock Paper Scissors Game ✊✋✌️
 
-This repository contains a simple browser-based game built using HTML, CSS, and JavaScript. The game is designed to run directly in the browser without any additional dependencies, making it lightweight and easy to play.
+This is a simple and fun **Rock Paper Scissors** game built using HTML, CSS, and JavaScript. You can play against the computer directly in your browser — no setup required!
 
-## 🚀 Game Overview
+## 🎮 Game Overview
 
-This is a basic arcade-style game where the player controls a character or object using keyboard input. The objective is to avoid obstacles and score points by surviving as long as possible.
+Rock Paper Scissors is a classic hand game usually played between two people. In this web version, you're playing against the computer. The rules are simple:
 
-> 🕹️ The game showcases core JavaScript concepts like event handling, game loops, DOM manipulation, collision detection, and animations.
+- ✊ Rock beats ✌️ Scissors
+- ✋ Paper beats ✊ Rock
+- ✌️ Scissors beats ✋ Paper
+
+The first to win a certain number of rounds (or based on score rules you define) is the winner!
 
 ## 🔧 Technologies Used
 
-- **HTML** - Structure of the web page and game canvas.
-- **CSS** - Styling of the game elements, background, and layout.
-- **JavaScript** - Core logic for game mechanics, interactions, scoring, and animations.
+- **HTML** – Creates the structure of the web page.
+- **CSS** – Adds styling and layout.
+- **JavaScript** – Handles game logic, random computer choices, and score tracking.
 
 ## 📁 Project Structure
 
